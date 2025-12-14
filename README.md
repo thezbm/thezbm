@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=thezbm&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezbm&theme=buefy&hide_border=true&langs_count=8" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=thezbm&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezbm&theme=buefy&hide_border=true&langs_count=8" /> -->
 
 <!--
 **thezbm/thezbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
